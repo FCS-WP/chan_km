@@ -1,0 +1,9 @@
+{
+    "default": {
+        "title": "Default",
+        "description": "",
+        "version": "1.9.0",
+        "category": "health,services,blog",
+        "demo_url": "//spock.axiomthemes.com"
+    }
+}
