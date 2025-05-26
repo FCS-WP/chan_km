@@ -5,5 +5,15 @@
         "version": "1.9.0",
         "category": "health,services,blog",
         "demo_url": "//spock.axiomthemes.com"
+    },
+    "elder-care": {
+        "title": "Elder Care",
+        "version": "1.5",
+        "category": "health,services",
+        "demo_url": "//elder-care.spock.axiomthemes.com",
+        "uploaded": "2022-09-27",
+        "updated": "2025-04-30",
+        "checked": "2025-05-26 02:18:04",
+        "update_started": 1714063663
     }
 }
