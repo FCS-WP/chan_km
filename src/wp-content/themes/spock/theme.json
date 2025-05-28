@@ -39,7 +39,7 @@
                 {
                     "slug": "text-link",
                     "name": "Link",
-                    "color": "#BBAD60"
+                    "color": "#ff3800"
                 },
                 {
                     "slug": "text-hover",
@@ -87,7 +87,7 @@
                 {
                     "colors": [
                         "#F1F3EB",
-                        "#BBAD60"
+                        "#ff3800"
                     ],
                     "slug": "bg-and-link",
                     "name": "Background and link color"
@@ -128,8 +128,8 @@
             ]
         },
         "layout": {
-            "contentSize": "840px",
-            "wideSize": "1290px"
+            "contentSize": "810px",
+            "wideSize": "1260px"
         },
         "custom": {
             "spacing": {

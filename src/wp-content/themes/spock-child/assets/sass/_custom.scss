@@ -1,0 +1,33 @@
+#tp_header{
+    .elementor-widget-social-icons{
+        a{
+            i{
+                font-size: 30px;
+            }
+        }
+    }
+}
+
+.tp_button{
+    a{
+        background: none;
+        border: 1px solid white;
+    }
+    &:hover{
+        a{
+            background: $button-hover-color;
+            border-color: $button-hover-color;
+        }
+    }
+}
+
+.button_custom{
+    a{
+        background: var(--e-global-color-44f94d6);
+        border: 1px solid var(--e-global-color-44f94d6);
+        &:hover{
+            background: none !important;
+            color: var(--e-global-color-44f94d6);
+        }
+    }
+}
